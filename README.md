@@ -1,14 +1,19 @@
 <h1>Hi, I'm Takia! <br/><a href="https://www.linkedin.com/in/takia-gordon/">Technology Professional</a></h1>
+<b>
 
-<h2>Cybersecurity Projects</h2>
+<h2>Technical Projects</h2>
+
+- <b>Windows 10 VirtualBox Setup</b>
+  
+
+  <h2>Cybersecurity Projects</h2>
 
 - <b>Active Directory (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/0xTeez/Active-Directory-Home-Lab)
 - <b>Hello World! Code</b>
   - [Hello World!](https://github.com/0xTeez/Hello-World-) <b><i>(Sample)</b></i>
 
-
-// <h2>📝 Resources</h2>
+<h2>📝 Resources</h2>
 
 - [How Cloud Identity & Access Management (IAM) Security Works](https://www.youtube.com/watch?v=7ZqVRYVmRjM)
 
