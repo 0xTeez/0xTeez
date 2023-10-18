@@ -4,9 +4,10 @@
 <h2>Technical Projects</h2>
 
 - <b>Windows 10 VirtualBox Setup</b>
+   - [Windows 10 VirtualBox Setup](https://github.com/0xTeez/Active-Directory-Home-Lab)
   
 
-  <h2>Cybersecurity Projects</h2>
+<h2>Cybersecurity Projects</h2>
 
 - <b>Active Directory (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/0xTeez/Active-Directory-Home-Lab)
