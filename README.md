@@ -9,7 +9,7 @@
 
 <h2>Cybersecurity Projects</h2>
 
-- <b>Active Directory (AlgoExpert)</b>
+- <b>Active Directory (</b>
   - [Active Directory Home Lab](https://github.com/0xTeez/Active-Directory-Home-Lab)
 - <b>Hello World! Code</b>
   - [Hello World!](https://github.com/0xTeez/Hello-World-) <b><i>(Sample)</b></i>
