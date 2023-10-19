@@ -16,7 +16,7 @@
 
 <h2>📝 Resources</h2>
 
-- [How Cloud Identity & Access Management (IAM) Security Works](https://www.youtube.com/watch?v=7ZqVRYVmRjM)
+- 
 
 
 <h2> 🤳 Connect with me:</h2>
