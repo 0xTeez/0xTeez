@@ -4,7 +4,7 @@
 <h2>Technical Projects</h2>
 
 - <b>Windows 10 VirtualBox Setup</b>
-   - [Windows 10 VirtualBox Setup](https://github.com/0xTeez/Windows-10-VirtualBox-Setup)
+   - [Windows 10 VirtualBox Setup](https://medium.com/@0.teez/windows-10-virtualbox-setup-545ce9b9be4d)
   
 
 <h2>Cybersecurity Projects</h2>
