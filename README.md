@@ -4,7 +4,7 @@
 <h2>Technical Projects</h2>
 
 - <b>Windows 10 VirtualBox Setup</b>
-   - [Windows 10 VirtualBox Setup](https://github.com/0xTeez/Active-Directory-Home-Lab)
+   - [Windows 10 VirtualBox Setup](https://github.com/0xTeez/Windows-10-VirtualBox-Setup)
   
 
 <h2>Cybersecurity Projects</h2>
