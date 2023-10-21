@@ -11,8 +11,7 @@
 
 - <b>Active Directory </b>
   - [Active Directory Windows 10 Setup (Home Lab)](https://medium.com/@0.teez/active-directory-windows-10-setup-home-lab-3a48c73907ec)
-- <b>Hello World! Code</b>
-  - [Hello World!](https://github.com/0xTeez/Hello-World-) <b><i>(Sample)</b></i>
+    
 
 <h2>📝 Resources</h2>
 
