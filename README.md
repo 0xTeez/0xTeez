@@ -10,7 +10,7 @@
 <h2>Cybersecurity Projects</h2>
 
 - <b>Active Directory </b>
-  - [Active Directory Home Lab](https://github.com/0xTeez/Active-Directory-Home-Lab)
+  - [Active Directory Windows 10 Setup (Home Lab)](https://medium.com/@0.teez/active-directory-windows-10-setup-home-lab-3a48c73907ec)
 - <b>Hello World! Code</b>
   - [Hello World!](https://github.com/0xTeez/Hello-World-) <b><i>(Sample)</b></i>
 
